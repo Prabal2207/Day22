@@ -1,0 +1,12 @@
+/Users/prabalrai/Projects/DAY22_Annotation/DAY22_Annotation/bin/Debug/netcoreapp3.1/DAY22_Annotation.deps.json
+/Users/prabalrai/Projects/DAY22_Annotation/DAY22_Annotation/bin/Debug/netcoreapp3.1/DAY22_Annotation.runtimeconfig.json
+/Users/prabalrai/Projects/DAY22_Annotation/DAY22_Annotation/bin/Debug/netcoreapp3.1/DAY22_Annotation.runtimeconfig.dev.json
+/Users/prabalrai/Projects/DAY22_Annotation/DAY22_Annotation/bin/Debug/netcoreapp3.1/DAY22_Annotation.dll
+/Users/prabalrai/Projects/DAY22_Annotation/DAY22_Annotation/bin/Debug/netcoreapp3.1/DAY22_Annotation.pdb
+/Users/prabalrai/Projects/DAY22_Annotation/DAY22_Annotation/obj/Debug/netcoreapp3.1/DAY22_Annotation.csproj.AssemblyReference.cache
+/Users/prabalrai/Projects/DAY22_Annotation/DAY22_Annotation/obj/Debug/netcoreapp3.1/DAY22_Annotation.AssemblyInfoInputs.cache
+/Users/prabalrai/Projects/DAY22_Annotation/DAY22_Annotation/obj/Debug/netcoreapp3.1/DAY22_Annotation.AssemblyInfo.cs
+/Users/prabalrai/Projects/DAY22_Annotation/DAY22_Annotation/obj/Debug/netcoreapp3.1/DAY22_Annotation.csproj.CoreCompileInputs.cache
+/Users/prabalrai/Projects/DAY22_Annotation/DAY22_Annotation/obj/Debug/netcoreapp3.1/DAY22_Annotation.dll
+/Users/prabalrai/Projects/DAY22_Annotation/DAY22_Annotation/obj/Debug/netcoreapp3.1/DAY22_Annotation.pdb
+/Users/prabalrai/Projects/DAY22_Annotation/DAY22_Annotation/obj/Debug/netcoreapp3.1/DAY22_Annotation.genruntimeconfig.cache
